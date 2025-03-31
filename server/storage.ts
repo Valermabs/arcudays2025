@@ -370,7 +370,7 @@ export class MemStorage implements IStorage {
       { name: "QUIZ BOWL", color: "blue" },
       { name: "MUSICAL", color: "purple" },
       { name: "DANCES", color: "pink" },
-      { name: "LITERARY", color: "amber" }
+      { name: "LITERARY", color: "amber" },
       { name: "USG CONTESTS", color: "yellow"}
     ];
     
